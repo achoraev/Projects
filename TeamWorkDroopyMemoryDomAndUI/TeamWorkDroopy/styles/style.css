@@ -1,0 +1,21 @@
+﻿ div#memory_board {
+            background: url(../images/metal-background.jpg) no-repeat;
+            border: #00ff21 1px solid;
+            width: 800px;
+            height: 540px;
+            padding: 24px;
+            margin: 0 auto;
+}
+
+    div#memory_board > div {
+        background: url(../images/teleriklogo.png) no-repeat;
+        border: #029615 1px solid;
+        width: 71px;
+        height: 71px;
+        float: left;
+        margin: 10px;
+        padding: 20px;
+        font-size: 64px;
+        cursor: pointer;
+        text-align: center;
+    }
